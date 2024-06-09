@@ -3,7 +3,7 @@
 # kod yükünü azaltır
 # alan tasarufu ve maliyeti azaltır
 # mesela 10 kere ekrana merhaba yazdırcaksak bunu
-# pirint ile 10 satır yazmamız gerekir
+# print ile 10 satır yazmamız gerekir
 # ama döngü ile 3 satır ile hallederiz
 
 numbers = [1,2,3,4,5]
